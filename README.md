@@ -1,4 +1,4 @@
-# Instructions for running the application Locally
+# Instructions for running the application locally
 
 1. Clone the repository and navigate to the project directory:
 
